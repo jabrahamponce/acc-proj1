@@ -21,7 +21,11 @@ https://publicblobstorageadvccp1.blob.core.windows.net/publicwebcontentblbst/Skf
   
 <style>
 body {
-  background-color: #9de8ff;
+  background-color: #0c5f5f;
+}
+
+h1 {
+    color: #ffffff;
 }
 
 #contact {

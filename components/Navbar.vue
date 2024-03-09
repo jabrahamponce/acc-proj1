@@ -10,7 +10,7 @@
 <style>
 .nav {
     /* background-color: black; */
-    color: #2daf72da;
+    color: #ffffff;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 30px;
     width: 100%;
@@ -19,20 +19,20 @@
 
 .nav-item:link {
     text-decoration: none;
-    color: #2daf72da;
+    color: #ffffff;
 }
 .nav-item:visited {
     text-decoration: none;
-    color: #2daf72da;
+    color: #ffffff;
 }
 .nav-item:hover {
     text-decoration: none;
-    color: #2daf72da;
+    color: #ffffff;
 }
 
 .nav-item:active {
     text-decoration: none;
-    color: #2daf72da;
+    color: #ffffff;
 }
 
 </style>
